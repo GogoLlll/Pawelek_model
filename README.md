@@ -96,7 +96,7 @@ Graph 1 saved: results_pony/viral_load_comparison_pony.png
 Graph 2 saved: results_pony/cell_populations_pony.png
 ```
 
-## Используемые источники
+## Источники
 
 1.	[Modeling Within-Host Dynamics of Influenza Virus Infection Including Immune Responses Kasia A. Pawelek,Giao T. Huynh,Michelle Quinlivan,Ann Cullinane,Libin Rong, Alan S. Perelson, 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3386161/)
 2.	[Interferon Induction and/or Production and Its Suppression by Influenza A Viruses, Philip I Marcus, Jillian M Rojek, Margaret J Sekellick, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC548469/)
